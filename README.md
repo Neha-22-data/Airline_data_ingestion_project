@@ -71,4 +71,3 @@ Images/AirlineProject.jpg
 
 
 - we can the output data stored in Redshift fact table.
-![factData](https://github.com/yash872/Airline-Data-Ingestion-Project/blob/main/Images/factData.JPG)
