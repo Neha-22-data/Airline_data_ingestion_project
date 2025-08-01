@@ -7,7 +7,7 @@ An airline daily data ingestion project using S3, S3 Cloudtrail Notification, Ev
 ***
 
 ## Architectural Diagram
-
+Images/AirlineProject.jpg
 
 ***
 
